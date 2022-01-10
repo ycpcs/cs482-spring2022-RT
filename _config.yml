@@ -1,0 +1,8 @@
+baseurl: "//ycpcs.github.io/cs482-spring2022-RT"
+markdown: kramdown
+highlighter: rouge
+coursename: "CS 482 Radio Telescope"
+
+kramdown:
+    input: GFM
+    hard_wrap: false

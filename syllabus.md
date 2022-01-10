@@ -16,13 +16,11 @@ CS 482 - Senior Software Project II<br>YCAS Radio Telescope Project
 
 **Meeting times:**
 
-* CS 482 Project Status Reports and MS Presentations/Demos: TBD, 12:00p to 1:15p in KEC118, and/or Project Workspace.
+* CS 482 Project Status Reports and MS Presentations/Demos: Wednesdays, 12:00p to 1:15p in KEC 118, KEC 128, and/or Project Workspace, in coordination with the ECE Engineering Capstone team.
 
-* Engineering Capstone II Status Reports and MS Presentations/Demos: TBD, 12:00p to 1:15p in KEC 128, and/or Project Workspace..
+* The ME Egngienering Capstone teams will be presenting their status reports and possibly MS presentations on Fridays, from 12:00p to 1:15p in KEC 128 and/or the Project Workspace.
 
-* There is a possibility that the CS Senior Design and ECE Capstone portions may be combined into integrated presentations, while the Capstone ME team presents on a different day.
-
-* Integrated CS and Engineering Team Meetings: TBD, 12:00p to 1:15p in KEC 118, KEC 128, and/or Project Workspace.
+* Integrated CS and Engineering Team Meetings: Mondays, 12:00p to 1:15p in KEC 118, KEC 128, and/or Project Workspace.
 
 General Course Description
 ------------------

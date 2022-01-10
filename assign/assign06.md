@@ -12,7 +12,7 @@ Due: [See the Assignments page for due dates](../assign/index.html)
 
 * This milestone presentation will take place in various venues, including the Project Workspace in order to demonstrate the actual Radio Telescope hardware and control electronics full assembled on the test stand in the Project Workspace, and will also be presented live on-line via Zoom.
 
-* You will also need to complete the [Final Self/Peer Evaluation](PeerEval-RadioTelescope-Sp21-final.pdf) form.  [Download the MS Word version](PeerEval-RadioTelescope-Sp22-final.doc), fill it out, and submit in **PDF format via email to your instructors by the due date.**
+* You will also need to complete the [Final Self/Peer Evaluation](PeerEval-RadioTelescope-Sp22-final.pdf) form.  [Download the MS Word version](PeerEval-RadioTelescope-Sp22-final.doc), fill it out, and submit in **PDF format via email to your instructors by the due date.**
 
 * Each team is also responsible for writing a comprehensive technical report similar in scope to the final  technical reports that you provided for CS 481 in the Fall.  Here are the [technical report guidelines](finalreport.html) for each team's final technical report.  This is a team assignment (there should only be one report per sub-team), but everyone on that sub-team is expected to make a significant contribution to their team's technical report.
 
@@ -20,7 +20,7 @@ Due: [See the Assignments page for due dates](../assign/index.html)
 
 * For your **final technical report**, you will add any missing structure, figures, content, and references, as well as address all of the comments, and conduct a final proofread.  **The Final Technical Report should be stored as a PDF in your Google Team Drive, and submitted to your instructors via PDF by the due date.**
 
-* Each team is also responsible for creating a Team Poster in **Powerpoint** to summarize your accomplishments.  We will use those posters for future Open Houses, and other YCP and YCAS Events.  The posters will be sumarize your final accomplishments, progress, and the state of your portion of the project.  **Create your poster in Powerpoint, store it on your Google Drive, and submit the final poster in PDF format via email to your instructors by the due date.**
+* Each team is also responsible for creating a Team Poster in **Powerpoint** to summarize your accomplishments.  We will use those posters for future Open Houses, and other YCP and YCAS Events.  The posters will be summarize your final accomplishments, progress, and the state of your portion of the project.  **Create your poster in Powerpoint, store it on your Google Drive, and submit the final poster in PDF format via email to your instructors by the due date.**
 
 <!-- vim:set wrap: -->
 <!-- vim:set linebreak: -->

@@ -18,7 +18,9 @@ There are four deliverables.
 Using Google Docs, write a 4-5 page proposal describing your project.  Describe what problem it is intended to solve, who the users are, what languages/frameworks/technologies you plan to use, etc.  Use diagrams as appropriate (e.g., user interface sketches, block diagrams, DB schemas, UML, etc.)
 
 <div class="callout">
-<b>Important</b>: It is **imperative that you consult with your YCAS clients** to discuss tasks and priorities before you write the proposal.  It is also **imperative that you consult and cooridinate with the Radio Telescope Engineering Capstone** and that you read the documentation and review the GitHub repository from the Fall 2021 CS481 Radio Telescope team.
+<b>Important</b>: It is imperative that you consult and cooridinate with the Radio Telescope Engineering Capstone and that you read the documentation and review the GitHub repository from the Fall 2021 CS481 Radio Telescope team.
+
+It is also imperative that you consult with your YCAS clients to discuss tasks and priorities before you write the proposal.  
 </div>
 
 ## Repository and issue tracker

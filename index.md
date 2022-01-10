@@ -21,17 +21,17 @@ All information about the course will be posted here.
 
 * **May 7** &mdash; [Final Self/Peer Evaluations](./assign/PeerEval-RadioTelescope-Sp21-final.pdf) are due Wednesday, 5-12-21, by Noon in PDF form via email to your instructors.
 
-* **Apr 24** &mdash; The Radio Telescope Project Final Presentation and Demo (MS4) will be Monday, 5-10-21, from 5:00pm to 7:00pm via Zoom, in coordination with the Engineering Capstone team.  As far as we know, this will be a virtual event, presented via Zoom.
+* **Apr 21** &mdash; The Radio Telescope Project Final Presentation and Demo (MS4) will be Monday, 5-9-22, from 5:00pm to 7:00pm, in coordination with the Engineering Capstone team.
 
-* **Apr 24** &mdash; [Draft Technical Reports](./assign/finalreport.html) are due Wednesday, 5-5-21, by Noon in your Google Drive, for review and comment by your instructors.
+* **Apr 21** &mdash; [Draft Technical Reports](./assign/finalreport.html) are due Wednesday, 5-4-22, by Noon in your Google Drive, for review and comment by your instructors.
 
-* **Apr 24** &mdash; The Milestone 3 presentation/demo has been merged with the Engineering and Computer Science Rollout, which is scheduled for Friday, 4-30-21, from 5:00p to 6:30p via Zoom.  The expectations for the Rollout presentation have **NOT** changed - your Milestone 3 grade will be based on your Rollout presentation.
+* **Apr 7** &mdash; **The Engineering and Computer Science Rollout for the Radio Telescope Project** is scheduled for Friday, 4-29-22, from 5:00p to 6:30p in the Project Workspace.  There will be some additional effort and coordination with the Engineering Capstone team in order to present the entire Radio Telescope project at that time.
 
-* **Apr 14** &mdash; **The Engineering and Computer Science Rollout for the Radio Telescope Project** is scheduled for Friday, 4-30-21, from 5:00p to 6:30p via Zoom.  There will be some additional effort and coordination with the Engineering Capstone team in order to present the entire Radio Telescope project at that time.
+* **Mar 23* &mdash; Milestone 3 presentation/demo on Wednesday, 4-22-22, during normal class time.
 
-* **Mar 2** &mdash; [Midterm Self/Peer Evaluations](./assign/PeerEval-RadioTelescope-Sp21-midterm.pdf) are due Friday, 4-1-22, by Noon in PDF form via email to your instructors.
+* **Mar 2** &mdash; [Midterm Self/Peer Evaluations](./assign/PeerEval-RadioTelescope-Sp22-midterm.pdf) are due Friday, 3-25-22, by Noon in PDF form via email to your instructors.
 
-* **Mar 2** &mdash; Milestone 2 presentation/demo on Wednesday, 3-30-22, during normal class time, via Zoom.
+* **Mar 2** &mdash; Milestone 2 presentation/demo on Wednesday, 3-23-22, during normal class time.
 
 
 -->

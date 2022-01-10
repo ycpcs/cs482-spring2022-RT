@@ -8,7 +8,7 @@ CS 482 - Senior Software Project II<br>YCAS Radio Telescope Project
 
 **Spring 2022**
 
-**Webpage:**  [https://ycpcs.github.io/cs482-spring2021-RT](https://ycpcs.github.io/cs482-spring2022-RT/)
+**Webpage:**  [https://ycpcs.github.io/cs482-spring2022-RT](https://ycpcs.github.io/cs482-spring2022-RT/)
 
 **Instructors:**
 

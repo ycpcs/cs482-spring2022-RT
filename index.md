@@ -19,7 +19,7 @@ All information about the course will be posted here.
 
 * **May 7** &mdash; [Final Technical Reports](./assign/finalreport.html) and Team Posters are due Friday, 5-14-21, by Noon in your Google Drive, as well as in PDF form via email to your instructors.
 
-* **May 7** &mdash; [Final Self/Peer Evaluations](./assign/PeerEval-RadioTelescope-Sp21-final.pdf) are due Wednesday, 5-12-21, by Noon in PDF form via email to your instructors.
+* **May 7** &mdash; [Final Self/Peer Evaluations](./assign/PeerEval-RadioTelescope-Sp22-final.pdf) are due Wednesday, 5-12-21, by Noon in PDF form via email to your instructors.
 
 * **Apr 21** &mdash; The Radio Telescope Project Final Presentation and Demo (MS4) will be Monday, 5-9-22, from 5:00pm to 7:00pm, in coordination with the Engineering Capstone team.
 

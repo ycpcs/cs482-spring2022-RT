@@ -21,7 +21,7 @@ Assignment | Due
 [Eng&CS Rollout](assign05-expo.html) | Friday, 4-29-2022 (TBD: as part of the Engineering and Computer Science Rollout, in coordination with the ECE and ME Engineering Capstone teams)
 [Assign06: Draft Technical Report](assign06.html) | Wednesday, 5-4-2022 (by Noon in your Google Drive)
 [Assign06: Milestone 4 - Final Presentation](assign06.html) | Monday, 5-9-2022 (TBD: in coordination with the ECE and ME Engineering Capstone teams)
-[Final Peer Evaluations](PeerEval-RadioTelescope-Sp21-final.pdf) | Wednesday, 5-11-2022 (by Noon in PDF form via email)
+[Final Peer Evaluations](PeerEval-RadioTelescope-Sp22-final.pdf) | Wednesday, 5-11-2022 (by Noon in PDF form via email)
 [Assign06: Final Technical Report and Team Posters](assign06.html) | Friday, 5-14-2022 (by Noon in PDF form in your Google Drive and via email)
 
 

@@ -23,7 +23,7 @@ Your third task is to fill out and submit your midterm peer evaluations.
 # Deliverables
 You will be working on all milestones in coordination with the Radio Telescope Engineering Capstone team.  As such, it is possible that you will need to provide support for the Engineering team's presentation, and they might need to provide support to your presentation and demo.  Due to scheduling and time constraint issues, the CS Senior Design, and Engineering Capstone presentations and demos will generally be given at different times, thus you must also coordinate your deliverables with the Engineering team.
 
-You will need to complete the **[Midterm Self/Peer Evaluation](PeerEval-RadioTelescope-Sp22-midterm.pdf) form**.  [Download the MS Word version](PeerEval-RadioTelescope-Sp22-midterm.doc), fill it out, and submit in PDF format via email to your instructors by the due date.
+You will need to complete the **[Midterm Self/Peer Evaluation](PeerEval-RadioTelescope-Sp22-midterm.pdf)** form.  [Download the MS Word version](PeerEval-RadioTelescope-Sp22-midterm.doc), fill it out, and submit in PDF format via email to your instructors by the due date.
 
 There are no other specific deliverables for this assignment other than the demonstration (including UML model, DB schema, and block diagrams of inter-related parts), documentation of individual progress, and documentation of requirements to be addressed in the next milestone.
 

@@ -12,7 +12,7 @@ Due: [See the Assignments page for due dates](../assign/index.html)
 
 * This milestone presentation will take place in various venues, including the Project Workspace in order to demonstrate the actual Radio Telescope hardware and control electronics full assembled on the test stand in the Project Workspace, and will also be presented live on-line via Zoom.
 
-* You will also need to complete the [Final Self/Peer Evaluation](PeerEval-RadioTelescope-Sp22-final.pdf) form.  [Download the MS Word version](PeerEval-RadioTelescope-Sp22-final.doc), fill it out, and submit in **PDF format via email to your instructors by the due date.**
+* You will also need to complete the **[Final Self/Peer Evaluation](PeerEval-RadioTelescope-Sp22-final.pdf)** form.  [Download the MS Word version](PeerEval-RadioTelescope-Sp22-final.doc), fill it out, and submit in **PDF format via email to your instructors by the due date.**
 
 * Each team is also responsible for writing a comprehensive technical report similar in scope to the final  technical reports that you provided for CS 481 in the Fall.  Here are the [technical report guidelines](finalreport.html) for each team's final technical report.  This is a team assignment (there should only be one report per sub-team), but everyone on that sub-team is expected to make a significant contribution to their team's technical report.
 

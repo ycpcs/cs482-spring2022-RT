@@ -19,15 +19,15 @@ All information about the course will be posted here.
 
 * **May 7** &mdash; [Final Technical Reports](./assign/finalreport.html) and Team Posters are due Friday, 5-14-21, by Noon in your Google Drive, as well as in PDF form via email to your instructors.
 
-* **May 7** &mdash; [Final Self/Peer Evaluations](./assign/PeerEval-RadioTelescope-Sp22-final.pdf) are due Wednesday, 5-12-21, by Noon in PDF form via email to your instructors.
+* **May 7** &mdash; [Final Self/Peer Evaluations](./assign/PeerEval-RadioTelescope-Sp22-final.pdf) are due Wednesday, 5-11-21, by Noon in PDF form via email to your instructors.
 
-* **Apr 21** &mdash; The Radio Telescope Project Final Presentation and Demo (MS4) will be Monday, 5-9-22, from 5:00pm to 7:00pm, in coordination with the Engineering Capstone team.
+* **Apr 13** &mdash; The Radio Telescope Project Final Presentation and Demo (MS4) will be Monday, 5-9-22, from 5:00pm to 7:00pm, in coordination with the Engineering Capstone team.
 
-* **Apr 21** &mdash; [Draft Technical Reports](./assign/finalreport.html) are due Wednesday, 5-4-22, by Noon in your Google Drive, for review and comment by your instructors.
+* **Apr 13** &mdash; [Draft Technical Reports](./assign/finalreport.html) are due Wednesday, 5-4-22, by Noon in your Google Drive, for review and comment by your instructors.
 
 * **Apr 7** &mdash; **The Engineering and Computer Science Rollout for the Radio Telescope Project** is scheduled for Friday, 4-29-22, from 5:00p to 6:30p in the Project Workspace.  There will be some additional effort and coordination with the Engineering Capstone team in order to present the entire Radio Telescope project at that time.
 
-* **Mar 23* &mdash; Milestone 3 presentation/demo on Wednesday, 4-22-22, during normal class time.
+* **Mar 23* &mdash; Milestone 3 presentation/demo on Wednesday, 4-13-22, during normal class time.
 
 * **Mar 2** &mdash; [Midterm Self/Peer Evaluations](./assign/PeerEval-RadioTelescope-Sp22-midterm.pdf) are due Friday, 3-25-22, by Noon in PDF form via email to your instructors.
 

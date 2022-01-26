@@ -25,7 +25,7 @@ All information about the course will be posted here.
 
 * **Apr 13** &mdash; [Draft Technical Reports](./assign/finalreport.html) are due Wednesday, 5-4-22, by Noon in your Google Drive, for review and comment by your instructors.
 
-* **Apr 7** &mdash; **The Engineering and Computer Science Rollout for the Radio Telescope Project** is scheduled for Friday, 4-29-22, from 5:00p to 6:30p in the Project Workspace.  There will be some additional effort and coordination with the Engineering Capstone team in order to present the entire Radio Telescope project at that time.
+* **Apr 7** &mdash; **The Engineering and Computer Science Rollout for the Radio Telescope Project** is scheduled for Thursday, 4-28-22, from 2:00p to 6:00p in the Project Workspace.  There will be some additional effort and coordination with the Engineering Capstone team in order to present the entire Radio Telescope project at that time.
 
 * **Mar 23* &mdash; Milestone 3 presentation/demo on Wednesday, 4-13-22, during normal class time.
 

@@ -10,15 +10,15 @@ CS 482 - Senior Software Project II<br>YCAS Radio Telescope Project
 
 **Webpage:**  [https://ycpcs.github.io/cs482-spring2022-RT](https://ycpcs.github.io/cs482-spring2022-RT/)
 
-**Instructors:**
+**Instructor:**
 
-- [Don Hake](http://faculty.ycp.edu/~djhake2/), <djhake2@ycp.edu>, KEC 137, Office hours: M-W-F: 1:00p to 2:00p, and by appointment
+- Professor Donald J. Hake II, <djhake2@ycp.edu>, KEC 137, Office hours: M-W-F: 1:00p to 2:00p, and by appointment
 
 **Meeting times:**
 
-* CS 482 Project Status Reports and MS Presentations/Demos: Wednesdays, 12:00p to 1:15p in KEC 118, KEC 128, and/or Project Workspace, in coordination with the ECE Engineering Capstone team.
+* CS 482 Project Status Reports and Milestone Presentations/Demos: Wednesdays, 12:00p to 1:15p in KEC 118, KEC 128, and/or the Project Workspace, in coordination with the ECE Engineering Capstone team.
 
-* The ME Egngienering Capstone teams will be presenting their status reports and possibly MS presentations on Fridays, from 12:00p to 1:15p in KEC 128 and/or the Project Workspace.
+* The ME Engineering Capstone team will be presenting its status reports and Milestone presentations on Fridays, from 12:00p to 1:15p in KEC 128 and/or the Project Workspace.
 
 * Integrated CS and Engineering Team Meetings: Mondays, 12:00p to 1:15p in KEC 118, KEC 128, and/or Project Workspace.
 

@@ -29,12 +29,11 @@ All information about the course will be posted here.
 
 * **Mar 23* &mdash; Milestone 3 presentation/demo on Wednesday, 4-13-22, during normal class time.
 
-* **Mar 2** &mdash; [Midterm Self/Peer Evaluations](./assign/PeerEval-RadioTelescope-Sp22-midterm.pdf) are due Friday, 3-25-22, by Noon in PDF form via email to your instructors.
-
-* **Mar 2** &mdash; Milestone 2 presentation/demo on Wednesday, 3-23-22, during normal class time.
-
-
 -->
+
+* **Mar 15** &mdash; [Midterm Self/Peer Evaluations](./assign/PeerEval-RadioTelescope-Sp22-midterm.pdf) are due Friday, 3-25-22, by Noon in PDF form via email to your instructors.
+
+* **Mar 15** &mdash; Milestone 2 presentation/demo on Wednesday, 3-23-22, during normal class time, in conjunction with the ECE Capstone team.
 
 * **Jan 28** &mdash; Milestone 1 presentation/demo on Wednesday, 3-2-22, during normal class time, in conjunction with the ECE Capstone team.
 

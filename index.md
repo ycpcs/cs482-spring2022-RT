@@ -16,20 +16,19 @@ All information about the course will be posted here.
 ## News
 
 <!--
-
-* **May 7** &mdash; [Final Technical Reports](./assign/finalreport.html) and Team Posters are due Friday, 5-14-21, by Noon in your Google Drive, as well as in PDF form via email to your instructors.
-
-* **May 7** &mdash; [Final Self/Peer Evaluations](./assign/PeerEval-RadioTelescope-Sp22-final.pdf) are due Wednesday, 5-11-21, by Noon in PDF form via email to your instructors.
-
-* **Apr 13** &mdash; The Radio Telescope Project Final Presentation and Demo (MS4) will be Monday, 5-9-22, from 5:00pm to 7:00pm, in coordination with the Engineering Capstone team.
-
-* **Apr 13** &mdash; [Draft Technical Reports](./assign/finalreport.html) are due Wednesday, 5-4-22, by Noon in your Google Drive, for review and comment by your instructors.
-
-* **Apr 7** &mdash; **The Engineering and Computer Science Rollout for the Radio Telescope Project** is scheduled for Thursday, 4-28-22, from 2:00p to 6:00p in the Project Workspace.  There will be some additional effort and coordination with the Engineering Capstone team in order to present the entire Radio Telescope project at that time.
-
-* **Mar 23* &mdash; Milestone 3 presentation/demo on Wednesday, 4-13-22, during normal class time.
-
 -->
+
+* **Apr 30** &mdash; [Final Technical Reports](./assign/finalreport.html) and Team Posters are due Saturday, 5-14-22, by Noon in your Google Drive, as well as in PDF form via email to your instructors.
+
+* **Apr 30** &mdash; [Final Self/Peer Evaluations](./assign/PeerEval-RadioTelescope-Sp22-CS-ECE-final.pdf) are due Wednesday, 5-11-22, by Noon in PDF form via email to your instructors.
+
+* **Apr 30** &mdash; The Radio Telescope Project Final Presentation and Demo (MS4) will be in KEC 125 on Monday, 5-9-22, from 5:15pm to 7:15pm, in coordination with the Engineering Capstone team, to be followed by a celebratory dinner at Crimson Anerican Grill.
+
+* **Apr 30** &mdash; [Draft Technical Reports](./assign/finalreport.html) are due Wednesday, 5-4-22, by Noon in your Google Drive, for review and comment by your instructors.
+
+* **Apr 7** &mdash; **The Engineering and Computer Science Expo for the Radio Telescope Project** is scheduled for Thursday, 4-28-22, from 2:00p to 6:00p in the Project Workspace.  There will be some additional effort and coordination with the Engineering Capstone team in order to present the entire Radio Telescope project at that time, along with Project and Team Posters to prepare.
+
+* **Mar 23** &mdash; Milestone 3 presentation/demo has been combined with the Engineering and Computer Science Expo on Thursday, 4-28-22.  There will be more details to follow.
 
 * **Mar 15** &mdash; [Midterm Self/Peer Evaluations](./assign/PeerEval-RadioTelescope-Sp22-midterm.pdf) are due Friday, 3-25-22, by Noon in PDF form via email to your instructors.
 
